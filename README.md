@@ -1,73 +1,66 @@
-    # Welcome to your Lovable project
+# 🧩 MonkeyBaby – Interactive 3D Puzzle Cube
 
-## Project info
+An interactive 3D puzzle experience designed to make learning fun through visual interaction, exploration, and problem-solving.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## 🚀 About the Project
 
-## How can I edit this code?
+MonkeyBaby Puzzle Cube is an interactive web-based puzzle experience built to encourage logical thinking, spatial awareness, and problem-solving through an engaging 3D environment.
 
-There are several ways of editing your application.
+The project is part of a broader vision to make technology and programming education more accessible and enjoyable for young learners.
 
-**Use Lovable**
+## ✨ Key Features
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+- Interactive 3D puzzle cube experience
+- Engaging visual interactions
+- Child-friendly learning experience
+- Browser-based application
+- Responsive user interface
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🛠️ Tech Stack
 
-**Use your preferred IDE**
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 💻 Getting Started
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Clone the repository:
 
-Follow these steps:
+```bash
+git clone https://github.com/ashi1207/monkeybaby_puzzlecube.git
+```
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Navigate to the project:
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+```bash
+cd monkeybaby_puzzlecube
+```
 
-# Step 3: Install the necessary dependencies.
-npm i
+Install dependencies:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## 🎯 Vision
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Our goal is to create interactive educational experiences that make learning technology more engaging, accessible, and enjoyable for children.
 
-**Use GitHub Codespaces**
+## 📌 Project Status
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Actively under development.
 
-## What technologies are used for this project?
+## 🤝 Contributions
 
-This project is built with:
+Suggestions, feedback, and contributions are welcome!
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 📄 License
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+License information will be added as the project evolves.
